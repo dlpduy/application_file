@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "{cipher}d11131d6008bbb6c53c8ff0ad43fd6d76c6d5ba6403e7cbf75b57ee852811b3080f1dc361eb17c3276046711e6d2f12b2c0ad9b49fa8e31161dbfb1cce9b7eb5"
-    email: "{cipher}d50f94c5cfa8ab6602380de82afc5957c88acf4655e4f62082443c03eb93e9b4282ba743418eaf6e1897b3da760a3579"
+    email: "testhook@gmail.com"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
